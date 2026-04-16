@@ -24,6 +24,7 @@ Enfoque en backend, APIs, automatizacion, despliegue y desarrollo de aplicacione
 ### Repositorio para reserva de salas
 
 Aplicacion de consola en Java que analiza los ficheros JSON exportados de Instagram para mostrar seguidores mutuos, gente que te sigue y no sigues, y gente que sigues y no te sigue.
+
 ![Estado](https://img.shields.io/badge/estado-completado-green)
 [Echale un vistazo!! 👀](https://github.com/marioo27/InstagramNumbers.git)
 
