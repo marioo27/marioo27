@@ -26,7 +26,7 @@ Enfoque en backend, APIs, automatizacion, despliegue y desarrollo de aplicacione
 
 Console application that analyzes Instagram JSON exports to identify Mutual followers and One-way follower.
 
-![Status](https://img.shields.io/badge/estado-completado-green)
+![status](https://img.shields.io/badge/status-completed-brightgreen)
 [Echale un vistazo!! 👀](https://github.com/marioo27/InstagramNumbers.git)
 
 ### Repositorio para reserva de salas
