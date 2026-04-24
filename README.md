@@ -24,9 +24,9 @@ Enfoque en backend, APIs, automatizacion, despliegue y desarrollo de aplicacione
 ### Aplicación Web Scrapping para Instagram
 
 
-Aplicacion Web Scrapping en Java que analiza los ficheros JSON exportados de Instagram para mostrar seguidores mutuos, gente que te sigue y no sigues, y gente que sigues y no te sigue.
+Console application that analyzes Instagram JSON exports to identify Mutual followers and One-way follower.
 
-![Estado](https://img.shields.io/badge/estado-completado-green)
+![Status](https://img.shields.io/badge/estado-completado-green)
 [Echale un vistazo!! 👀](https://github.com/marioo27/InstagramNumbers.git)
 
 ### Repositorio para reserva de salas
