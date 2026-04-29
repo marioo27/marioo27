@@ -13,7 +13,7 @@ Focused on backend development, API design, automation, deployment, and overall 
 - **Languages:** Java, Python, JavaScript, C, C++, SQL
 - **Frameworks:** Spring Boot, Hibernate, FastAPI
 - **Databases:** MySQL, SQLite
-- **Tools:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ, Postman, Bash/Shell
+- **Tools:** Git, GitHub, Docker, Maven, Eclipse, VS Code, Android Studio, IntelliJ, Postman, Bash/Shell
 
 
 ---
