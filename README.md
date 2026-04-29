@@ -10,10 +10,10 @@ Focused on backend development, API design, automation, deployment, and overall 
 
 ## 🛠 Tech Stack
 
-- **Languages:** Java, Python, JavaScript
-- **Frameworks:** Spring Boot, Hibernate
-- **Databases:** MySQL, SQLite
-- **Tools:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ, Postman
+- **Languages:** Java, Python, JavaScript, C, C++, SQL
+- **Frameworks:** Spring Boot, Hibernate, FastAPI
+- **Databases:** MySQL, SQLite, DynamoDB
+- **Tools:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ, Postman, Bash/Shell
 
 
 ---
