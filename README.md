@@ -38,7 +38,8 @@ Collaborative project focused on practicing NoSQL database implementation using 
 [Take a look!! 👀](https://github.com/marioo27/AAD_UD06_Trabajo_G6_DynamoDB.git)
 
 
-## Contact 🔗
-- **LinkedIn:** [[Insert your LinkedIn profile link here](https://www.linkedin.com/in/mario-garcia-rodriguez/)]
-- **Email:** [mariogarrod@gmail.com]
+## 📫 Contact 🔗
+
+- **LinkedIn:** [Mario García Rodríguez](https://www.linkedin.com/in/mario-garcia-rodriguez/)
+- **Email:** [mariogarrod@gmail.com](mailto:mariogarrod@gmail.com)
 
