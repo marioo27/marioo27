@@ -39,7 +39,6 @@ Collaborative project focused on practicing NoSQL database implementation using 
 
 
 ## Contact 🔗
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?tyle=for-the-badge&logo=linkedin&logoColor=white)]
-- [linkedin]([https://www.linkedin.com/in/mateo-ayarra-barbero-02280417a](https://www.linkedin.com/in/mario-garcia-rodriguez/))
-- Email: `mariogarrod@gmail.com`
+- **LinkedIn:** [[Insert your LinkedIn profile link here](https://www.linkedin.com/in/mario-garcia-rodriguez/)]
+- **Email:** [mariogarrod@gmail.com]
 
