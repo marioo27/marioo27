@@ -2,26 +2,26 @@
 
 ---
 
-## Sobre mi 👨‍💻
-
-Estudiante en desarrollo de Aplicaciones Multiplataforma (DAM).
-Enfoque en backend, APIs, automatizacion, despliegue y desarrollo de aplicaciones.
+## About me 👨‍💻
+Software Developer.
+Focused on backend development, API design, automation, deployment, and overall application architecture.
 
 ---
 
-## Tecnologias 🛠️
+## Technologies 🛠️
 
-- **Lenguajes:** Java, Python, JavaScript, Json, XML
+- **Languages: Java, Python, JavaScript, JSON, XML
 - **Frameworks:** Spring Boot, Hibernate
-- **Bases de datos:** MySQL, SQLite
-- **Herramientas:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ
-- **Formato de datos y parseo:** XML(DOM), JSON, CSV, Properties, txt
+- **Databases:** MySQL, SQLite, H2, MariaDB, MongoDB
+- **Tools:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ
+- **Data Formats & Parsing:** XML(DOM), JSON, CSV, Properties, TXT
+
 
 ---
 
-## Proyectos destacados 📂
+## Featured Projects 📂
 
-### Aplicación Web Scrapping para Instagram
+### Instagram follower tracker.
 
 
 Console application that analyzes Instagram JSON exports to identify Mutual followers and One-way follower.
