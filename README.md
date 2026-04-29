@@ -1,25 +1,24 @@
-# Mario García 🚀
+# 🚀Mario García 
 
 ---
 
-## About me 👨‍💻
+## 👨‍💻About me
 Software Developer.
 Focused on backend development, API design, automation, deployment, and overall application architecture.
 
 ---
 
-## Tech Stack 🛠️
+## 🛠 Tech Stack
 
-- **Languages:** Java, Python, JavaScript, JSON, XML
+- **Languages:** Java, Python, JavaScript
 - **Frameworks:** Spring Boot, Hibernate
-- **Databases:** MySQL, SQLite, H2, MariaDB, MongoDB
-- **Tools:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ
-- **Data Formats & Parsing:** XML(DOM), JSON, CSV, Properties, TXT
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ, Postman
 
 
 ---
 
-## Featured Projects 📂
+## 📂 Featured Projects 
 
 ### Instagram follower tracker.
 
@@ -38,7 +37,7 @@ Collaborative project focused on practicing NoSQL database implementation using 
 [Take a look!! 👀](https://github.com/marioo27/AAD_UD06_Trabajo_G6_DynamoDB.git)
 
 
-## 📫 Contact 🔗
+## 🔗 Contact 
 
 - **LinkedIn:** [Mario García Rodríguez](https://www.linkedin.com/in/mario-garcia-rodriguez/)
 - **Email:** [mariogarrod@gmail.com](mailto:mariogarrod@gmail.com)
