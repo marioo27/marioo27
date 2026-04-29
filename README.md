@@ -10,7 +10,7 @@ Focused on backend development, API design, automation, deployment, and overall 
 
 ## Tech Stack 🛠️
 
-- **Languages: Java, Python, JavaScript, JSON, XML
+- **Languages:** Java, Python, JavaScript, JSON, XML
 - **Frameworks:** Spring Boot, Hibernate
 - **Databases:** MySQL, SQLite, H2, MariaDB, MongoDB
 - **Tools:** Git, GitHub, Docker, Maven, Android Studio, IntelliJ
