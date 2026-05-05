@@ -36,9 +36,9 @@ Collaborative project focused on practicing NoSQL database implementation using 
 ![status](https://img.shields.io/badge/status-completed-brightgreen)
 [Take a look!! 👀](https://github.com/marioo27/AAD_UD06_Trabajo_G6_DynamoDB.git)
 
-<!-- 
+
 ## 🔗 Contact 
 
 - **LinkedIn:** [Mario García Rodríguez](https://www.linkedin.com/in/mario-garcia-rodriguez/)
 - **Email:** [mariogarrod@gmail.com](mailto:mariogarrod@gmail.com)
- -->
+ 
