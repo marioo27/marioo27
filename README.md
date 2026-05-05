@@ -23,7 +23,7 @@ Focused on backend development, API design, automation, deployment, and overall 
 ### Instagram follower tracker.
 
 
-Console application that analyzes Instagram JSON exports to identify Mutual followers and One-way follower.
+Console application that analyzes Instagram JSON exports to identify Mutual followers and One-way followers.
 
 ![status](https://img.shields.io/badge/status-completed-brightgreen)
 [Take a look!! 👀](https://github.com/marioo27/InstagramNumbers.git)
