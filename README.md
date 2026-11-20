@@ -24,7 +24,7 @@ Focused on backend development, API design, automation, deployment, and overall 
 
 Native Android application for managing gym routines, exercises, workout logs, and training calendars. Built with Java, Material Design 3, ViewBinding, SQLite, and JSON backup/import.
 
-![status](https://img.shields.io/badge/status-in%20development-yellow)
+![status](https://img.shields.io/badge/status-completed-brightgreen)
 [Take a look!! 👀](https://github.com/marioo27/MonsterGYM)
 
 ### I ain’t ur fan — Instagram Follower Analyzer
