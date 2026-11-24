@@ -40,3 +40,11 @@ Full-stack web application that compares Instagram JSON exports to identify mutu
 
 - **LinkedIn:** [Mario García Rodríguez](https://www.linkedin.com/in/mario-garcia-rodriguez/)
 - **Email:** [mariogarrod@gmail.com](mailto:mariogarrod@gmail.com)
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marioo27/marioo27/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marioo27/marioo27/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marioo27/marioo27/output/github-contribution-grid-snake.svg">
+</picture>
